@@ -1,1 +1,1 @@
-[NixOS](nixos.org)
+[NixOS](https://nixos.org)
